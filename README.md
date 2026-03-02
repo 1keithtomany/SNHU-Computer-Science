@@ -3,7 +3,7 @@
 CS-250 - Software Development Lifecycle
 
 1). How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-  User Stories help to elabotate end-user needs into simple statements - i.e. “As a [role], I want to [action], so that [value/outcome].” User stories serve 
+  User Stories help to elabotate end-user needs into simple statements - “As a [role], I want to [action], so that [value/outcome].” User stories serve 
   as requirements told from the perspective of the end-user. They help me view the software through the user's eyes, ensuring the final product actually 
   solves their specific pain points. They also allow me to decompose complex project requirements into small, manageable, and testable units of work. 
 
